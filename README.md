@@ -1,1 +1,1 @@
-# KNN
+# MultiLinear Regression
